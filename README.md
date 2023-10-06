@@ -4,7 +4,10 @@
 
 A simple digital clock built in C++ that showcases the current local time right in your console. 
 
-<img width="486" alt="image" src="https://github.com/ChadaBendriss/DigitalClock/assets/113207156/8b3b03d8-6c0b-4152-96ba-d6ba0422e957">
+<img width="399" alt="image" src="https://github.com/ChadaBendriss/DigitalClock/assets/113207156/2956e147-eae6-4662-9333-cb1e2d769826">
+
+
+
 
 
 
